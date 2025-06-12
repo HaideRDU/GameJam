@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
 
     public float playerSpeed = 5f; // Speed of the player
     public float speedX, speedY;
-
+    public static PlayerController Instance;
     private Animator animator;
     private Rigidbody2D rb;
     void Start()
@@ -30,6 +30,6 @@ public class PlayerController : MonoBehaviour
 
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
-        animator.SetFloat("Speed",movementInput.magnitude);
+        animator.SetFloat("Speed", movementInput.magnitude);
     }
 }

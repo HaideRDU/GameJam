@@ -251,6 +251,34 @@ Transform:
   - {fileID: 927670470}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &564606560 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7977121998546974621, guid: 9babfc6f7ba4b884da077136bf16e8dd,
+    type: 3}
+  m_PrefabInstance: {fileID: 5850351312289141592}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &630271398 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4594000518801487185, guid: 9babfc6f7ba4b884da077136bf16e8dd,
+    type: 3}
+  m_PrefabInstance: {fileID: 5850351312289141592}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &630271406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630271398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8393faf7b785647abf78af8cacd326, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 564606560}
+  rb: {fileID: 0}
+  moveSpeed: 10
+  playerMoveDirection: {x: 0, y: 0, z: 0}
 --- !u!1 &927670469
 GameObject:
   m_ObjectHideFlags: 0
@@ -47726,12 +47754,12 @@ PrefabInstance:
     - target: {fileID: 401272613266294213, guid: 242916853f936b649a44c5797acc4e56,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.87
+      value: -6.13
       objectReference: {fileID: 0}
     - target: {fileID: 401272613266294213, guid: 242916853f936b649a44c5797acc4e56,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.43
+      value: -3.5699997
       objectReference: {fileID: 0}
     - target: {fileID: 401272613266294213, guid: 242916853f936b649a44c5797acc4e56,
         type: 3}
@@ -47778,6 +47806,11 @@ PrefabInstance:
       propertyPath: footstepsSound
       value: 
       objectReference: {fileID: 8300000, guid: 003fec0a1953f724f8c509caa545fa1c, type: 3}
+    - target: {fileID: 6297779244101561403, guid: 242916853f936b649a44c5797acc4e56,
+        type: 3}
+      propertyPath: MinDistance
+      value: 0.18126011
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47980,7 +48013,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4594000518801487185, guid: 9babfc6f7ba4b884da077136bf16e8dd,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 630271406}
   m_SourcePrefab: {fileID: 100100000, guid: 9babfc6f7ba4b884da077136bf16e8dd, type: 3}
 --- !u!1001 &7780148461825223486
 PrefabInstance:

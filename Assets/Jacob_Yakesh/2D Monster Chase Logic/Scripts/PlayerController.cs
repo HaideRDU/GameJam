@@ -4,6 +4,7 @@ namespace Jacob_Yakesh.MonsterChaseLogic.PlayerLogic
     using UnityEngine;
     public class Player : MonoBehaviour
     {
+        public static PlayerController Instance;
         public float speed = 1f;
         [SerializeField] private AudioClip footstepsSound; // Sound for footsteps
         private AudioSource audioSource;
