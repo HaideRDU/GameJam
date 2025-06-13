@@ -20,7 +20,7 @@ public class enemy : MonoBehaviour
     {
         rb.linearVelocity = new Vector3(playerMoveDirection.x * moveSpeed, playerMoveDirection.y * moveSpeed);
 
-        direction = (PlayerController.Instance.transform.position - transform.position).normalized;
+       // direction = (PlayerController.Instance.transform.position - transform.position).normalized;
         rb.linearVelocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed);
     }
 }

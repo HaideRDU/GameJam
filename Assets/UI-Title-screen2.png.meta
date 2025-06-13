@@ -1172,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI-Title-screen2_0: -5818846201682597807
+      UI-Title-screen2_1: -8914262399989833067
+      UI-Title-screen2_10: 7893040355326266212
+      UI-Title-screen2_11: -6925629856220336383
+      UI-Title-screen2_12: 583729913308390012
+      UI-Title-screen2_13: 2221871182471517493
+      UI-Title-screen2_14: -774460676846045100
+      UI-Title-screen2_15: 8700442768948169688
+      UI-Title-screen2_16: 1023887897464651968
+      UI-Title-screen2_17: 2951024644985523847
+      UI-Title-screen2_18: 6234673540682817402
+      UI-Title-screen2_19: -513983874591673416
+      UI-Title-screen2_2: -803014317142613440
+      UI-Title-screen2_20: -3217452203161305655
+      UI-Title-screen2_21: -7356857373089964021
+      UI-Title-screen2_22: -370216175324248754
+      UI-Title-screen2_23: -4627372636095400350
+      UI-Title-screen2_24: 8757094520114996645
+      UI-Title-screen2_25: -8201563382570896774
+      UI-Title-screen2_26: -1732940556232352171
+      UI-Title-screen2_27: 6961743360306584187
+      UI-Title-screen2_28: 1924758207083088911
+      UI-Title-screen2_29: -918833117590037483
+      UI-Title-screen2_3: -4251403489225026706
+      UI-Title-screen2_30: -6323995782065384330
+      UI-Title-screen2_31: -3816291457284617688
+      UI-Title-screen2_32: -545490129319195339
+      UI-Title-screen2_33: 5534806361598847139
+      UI-Title-screen2_34: 487132094854938268
+      UI-Title-screen2_35: 6411394219088683917
+      UI-Title-screen2_36: 2842557483220366516
+      UI-Title-screen2_37: -2889612597957883765
+      UI-Title-screen2_38: 731562174899983588
+      UI-Title-screen2_39: -5245160801975161371
+      UI-Title-screen2_4: 2118308319875305858
+      UI-Title-screen2_40: 4610510799118608522
+      UI-Title-screen2_41: 4617163418853553643
+      UI-Title-screen2_5: 8472305020128791836
+      UI-Title-screen2_6: 5241387613000544212
+      UI-Title-screen2_7: 1841467024576256764
+      UI-Title-screen2_8: -2824428828472534050
+      UI-Title-screen2_9: -6501605837388694677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
