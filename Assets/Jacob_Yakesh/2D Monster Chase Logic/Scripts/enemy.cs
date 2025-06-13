@@ -4,23 +4,41 @@ public class enemy : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Rigidbody2D rb;
-    private Vector3 direction;
-    [SerializeField] private float moveSpeed;
-    public Vector3 playerMoveDirection;
+    [SerializeField] private float moveSpeed = 1.4f;
+    Transform target;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Awake()
     {
-        
-    }
+     
+            rb = GetComponent<Rigidbody2D>();
+        }
 
-    // Update is called once per frame
+    private void Start()
+    {
+        target = GameObject.FindGameObjectWithTag("Player").transform; // Find the player by tag
+
+    }
+        
+        
+   
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector3(playerMoveDirection.x * moveSpeed, playerMoveDirection.y * moveSpeed);
+        if (target)
+        {
 
-        direction = (PlayerController.Instance.transform.position - transform.position).normalized;
-        rb.linearVelocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed);
+            // Calculate direction to player
+            Vector3 direction = (target.position - transform.position).normalized;
+
+        // Move towards the player
+        rb.linearVelocity = new Vector2 (direction.x, direction.y) * moveSpeed;
+    }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            
+                GameManager.Instance.GameOver();
+        }
     }
 }
