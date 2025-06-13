@@ -4,11 +4,11 @@
 - Active scene:
   - Name: Game
   - Tags:
-    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, Monster
+    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, Monster, Enemy, Caja
   - Layers:
     - Default, TransparentFX, Ignore Raycast, Water, UI, Layer 1, Layer 2, Layer 3
 - Active game object:
-  - Name: Walls
+  - Name: Text (TMP)
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

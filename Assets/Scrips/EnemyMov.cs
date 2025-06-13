@@ -22,7 +22,7 @@ public class EnemyMov : MonoBehaviour
 
     void Start()
     {
-        
+        gamemanager = FindFirstObjectByType<GameManager>();
         PickNewPatrolPoint();
     }
 
@@ -94,8 +94,8 @@ public class EnemyMov : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
-        {  
-            
+        {
+            gamemanager.GameOver();
         }
     }
 }

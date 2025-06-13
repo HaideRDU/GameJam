@@ -31,15 +31,20 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void GameOver(){
+    public void GameOver()
+    {
         gameActive = false;
+
         StartCoroutine(ShowGameOverScreen());
+        
     }
 
-    IEnumerator ShowGameOverScreen(){
-        yield return new WaitForSeconds(1.5f);
+    IEnumerator ShowGameOverScreen()
+    {
+        yield return new WaitForSeconds(0.5f);
         UIController.Instance.gameOverPanel.SetActive(true);
         AudioController.Instance.PlaySound(AudioController.Instance.gameOver);
+        Time.timeScale = 0f;
     }
 
     public void Restart(){
