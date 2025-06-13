@@ -11,6 +11,8 @@ public class UIController : MonoBehaviour
     
     public GameObject gameOverPanel;
     public GameObject pausePanel;
+
+    public GameObject winGamePanel;
    
     
 

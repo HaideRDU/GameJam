@@ -36,15 +36,17 @@ public class GameManager : MonoBehaviour
         gameActive = false;
 
         StartCoroutine(ShowGameOverScreen());
+        Time.timeScale = 0f;
         
     }
 
     IEnumerator ShowGameOverScreen()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0f);
         UIController.Instance.gameOverPanel.SetActive(true);
-        AudioController.Instance.PlaySound(AudioController.Instance.gameOver);
         Time.timeScale = 0f;
+        AudioController.Instance.PlaySound(AudioController.Instance.gameOver);
+        
     }
 
     public void Restart(){
@@ -68,7 +70,24 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void QuitGame(){
+    public void WinGame()
+    {
+        gameActive = false;
+
+        StartCoroutine(ShowWinScreen());
+        Time.timeScale = 0f;
+    }
+
+    IEnumerator ShowWinScreen()
+    {
+        yield return new WaitForSeconds(0f);
+        UIController.Instance.winGamePanel.SetActive(true);
+        Time.timeScale = 0f;
+        AudioController.Instance.PlaySound(AudioController.Instance.gameOver);
+        
+    }
+    public void QuitGame()
+    {
         Application.Quit();
     }
 

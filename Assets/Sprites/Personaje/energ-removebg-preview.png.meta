@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 812e2ba99c89754439a01d27c07997c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -293643890154567397
+    second: energ-removebg-preview_0
+  - first:
+      213: 4751287001533557830
+    second: energ-removebg-preview_1
+  - first:
+      213: -7813338801774488525
+    second: energ-removebg-preview_2
+  - first:
+      213: -7281133971188978892
+    second: energ-removebg-preview_3
+  - first:
+      213: 6624928652457484008
+    second: energ-removebg-preview_4
+  - first:
+      213: -580296544803940788
+    second: energ-removebg-preview_5
+  - first:
+      213: -6303715022340572734
+    second: energ-removebg-preview_6
+  - first:
+      213: -6466273015025392629
+    second: energ-removebg-preview_7
+  - first:
+      213: -5425475204855238710
+    second: energ-removebg-preview_8
+  - first:
+      213: 2461578760639168368
+    second: energ-removebg-preview_9
+  - first:
+      213: -9034969443064537061
+    second: energ-removebg-preview_10
+  - first:
+      213: -5088506444729359516
+    second: energ-removebg-preview_11
+  - first:
+      213: 4803901497581124914
+    second: energ-removebg-preview_12
+  - first:
+      213: -6157142984476046806
+    second: energ-removebg-preview_13
+  - first:
+      213: 627803158857171860
+    second: energ-removebg-preview_14
+  - first:
+      213: -4728952773821420771
+    second: energ-removebg-preview_15
+  - first:
+      213: 3678739128373005837
+    second: energ-removebg-preview_16
+  - first:
+      213: 1836128646200294483
+    second: energ-removebg-preview_17
+  - first:
+      213: -4024689852152633637
+    second: energ-removebg-preview_18
+  - first:
+      213: 5973028112275402623
+    second: energ-removebg-preview_19
+  - first:
+      213: 5465514682282336287
+    second: energ-removebg-preview_20
+  - first:
+      213: 742238090832735822
+    second: energ-removebg-preview_21
+  - first:
+      213: 8631648736368675299
+    second: energ-removebg-preview_22
+  - first:
+      213: 8677719387892409642
+    second: energ-removebg-preview_23
+  - first:
+      213: 1735290358640758094
+    second: energ-removebg-preview_24
+  - first:
+      213: -5607088201221381945
+    second: energ-removebg-preview_25
+  - first:
+      213: -5334228684469620867
+    second: energ-removebg-preview_26
+  - first:
+      213: 654255329744894139
+    second: energ-removebg-preview_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energ-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 610
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198fdc0074ccebf0800000000000000
+      internalID: -293643890154567397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 311
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ca650ca56ffe140800000000000000
+      internalID: 4751287001533557830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 311
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3349472b1c1719390800000000000000
+      internalID: -7813338801774488525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 311
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b6045fa3734fa90800000000000000
+      internalID: -7281133971188978892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 251
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1900528970fb50800000000000000
+      internalID: 6624928652457484008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 251
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c461396fd5f52f7f0800000000000000
+      internalID: -580296544803940788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 211
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b810f594b488a0800000000000000
+      internalID: -6303715022340572734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 251
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04a7bed3fe2346a0800000000000000
+      internalID: -6466273015025392629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 251
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfe9eceb07d4b4b0800000000000000
+      internalID: -5425475204855238710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f3b8e37d8492220800000000000000
+      internalID: 2461578760639168368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 126
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1021ad29275d9280800000000000000
+      internalID: -9034969443064537061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ee9c395ef169b0800000000000000
+      internalID: -5088506444729359516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d3a4bb5f2eaa240800000000000000
+      internalID: 4803901497581124914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a440bd31f6d8aa0800000000000000
+      internalID: -6157142984476046806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493cc8095a766b800800000000000000
+      internalID: 627803158857171860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 126
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba6ccd1826f5eb0800000000000000
+      internalID: -4728952773821420771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 126
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ec0081fb18d0330800000000000000
+      internalID: 3678739128373005837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 126
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cffa6864d3b7910800000000000000
+      internalID: 1836128646200294483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6a25737ed6528c0800000000000000
+      internalID: -4024689852152633637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 45
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe891fb6574e250800000000000000
+      internalID: 5973028112275402623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ee1065a869db40800000000000000
+      internalID: 5465514682282336287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e69de6c95fc4a00800000000000000
+      internalID: 742238090832735822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e944351bc6c9c770800000000000000
+      internalID: 8631648736368675299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25e8d78ec37d6870800000000000000
+      internalID: 8677719387892409642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d41f0236df41810800000000000000
+      internalID: 1735290358640758094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06ae51dfe9f22b0800000000000000
+      internalID: -5607088201221381945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 45
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2d7ff54309f5b0800000000000000
+      internalID: -5334228684469620867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energ-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b9d981c1641900800000000000000
+      internalID: 654255329744894139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: af01318f5ca943842bf2abf7686c98e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      energ-removebg-preview_0: -293643890154567397
+      energ-removebg-preview_1: 4751287001533557830
+      energ-removebg-preview_10: -9034969443064537061
+      energ-removebg-preview_11: -5088506444729359516
+      energ-removebg-preview_12: 4803901497581124914
+      energ-removebg-preview_13: -6157142984476046806
+      energ-removebg-preview_14: 627803158857171860
+      energ-removebg-preview_15: -4728952773821420771
+      energ-removebg-preview_16: 3678739128373005837
+      energ-removebg-preview_17: 1836128646200294483
+      energ-removebg-preview_18: -4024689852152633637
+      energ-removebg-preview_19: 5973028112275402623
+      energ-removebg-preview_2: -7813338801774488525
+      energ-removebg-preview_20: 5465514682282336287
+      energ-removebg-preview_21: 742238090832735822
+      energ-removebg-preview_22: 8631648736368675299
+      energ-removebg-preview_23: 8677719387892409642
+      energ-removebg-preview_24: 1735290358640758094
+      energ-removebg-preview_25: -5607088201221381945
+      energ-removebg-preview_26: -5334228684469620867
+      energ-removebg-preview_27: 654255329744894139
+      energ-removebg-preview_3: -7281133971188978892
+      energ-removebg-preview_4: 6624928652457484008
+      energ-removebg-preview_5: -580296544803940788
+      energ-removebg-preview_6: -6303715022340572734
+      energ-removebg-preview_7: -6466273015025392629
+      energ-removebg-preview_8: -5425475204855238710
+      energ-removebg-preview_9: 2461578760639168368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

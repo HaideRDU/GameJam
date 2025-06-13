@@ -6,8 +6,13 @@ public class MenuManager : MonoBehaviour
     public void NewGame(){
         SceneManager.LoadScene("Game");
     }
+    
+    public void Tutorial(){
+        SceneManager.LoadScene("Duplicado");
+    }
 
-    public void QuitGame(){
+    public void QuitGame()
+    {
         Application.Quit();
     }
 }
