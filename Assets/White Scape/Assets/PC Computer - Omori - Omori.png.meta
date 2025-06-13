@@ -1,0 +1,5218 @@
+fileFormatVersion: 2
+guid: a5f13933ce1a4064d84efcfd917a64a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2023405579327134088
+    second: PC Computer - Omori - Omori_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889565867a4941c10800000000000000
+      internalID: 2023405579327134088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8232b74ba05a56469a4c794ad510a17
+      internalID: -1965436004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010999c61caa8b49bb72ba8a9a39bc6
+      internalID: 1643574808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a00eace2010b4186b36284aff0ac3
+      internalID: 1860096452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cef4975625d4c4a9fdbd81e084deff
+      internalID: 1654449130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4802369851115194483fc74b6f6da2c0
+      internalID: 1634187875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709b289389759f49b809835fe654094
+      internalID: 378777921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9a2180de97dd4bb3380bdef7e25be
+      internalID: 1082045983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a671b6e187b89f4aafe0dd85c65892c
+      internalID: 2130280209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384fe09193451164185de5cb6dcb5688
+      internalID: -801939955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa06d0ca0fd2d84ba66bc458cb6f387
+      internalID: -13269032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf8d5ad4d1d0b48b32b83cdbff261f
+      internalID: -1014004110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbca9f83521b0a4ba4a50394a9693fe
+      internalID: 1722678544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3809c4a62dbd14d9e01a23a1953426
+      internalID: -21603197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20de0fb1c65c88449b8543db675ee66
+      internalID: -1292360872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b6c063f84bf247ba866bf91c0c2d7
+      internalID: 861068358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 405
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c7c5237f33fa4ba17605567e0b64a
+      internalID: 1893474200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7266127c2ad66498f24b79eb4d5011
+      internalID: -360874513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c874e18ee0d7a1648be0588aed66f292
+      internalID: 1261954036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676cc15a9328f634fbc94b3c5a4c423e
+      internalID: -1241368207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea4b57bc0de41409bb861b22391734
+      internalID: 294941203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3860be4d3581d4680396390616d080
+      internalID: -189831393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6b7f67f369194f8d631ce2204f139
+      internalID: -2128632097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7909db1c33c8f4a8f542294195fac3
+      internalID: 1249622795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045c0615b1bfbf14fb6ad4f64dad9edd
+      internalID: -122381068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624933716598f6544aa5f8cc33a9d05d
+      internalID: 421825279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cd16f39fd2864eb2fa556f9c716b7
+      internalID: 1116917019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b994c6feeb494a90fa1ca0ca56d10
+      internalID: -1513173397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae557953c509c47be56bbe0a93b1b9
+      internalID: -1262844549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc1785a6ada8494896040253b6d36e8
+      internalID: -2145575058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f46c3f4fb7f344a84e3fac1babb2b
+      internalID: -74679106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99adc76ef496954092bdf7c994fa11e
+      internalID: -1429219364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821327538b8256418965bfe6d615ffd
+      internalID: -993897681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 373
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56ba7f0bd449c4c9a2a76f514c6e27
+      internalID: -1622607464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c93fa74c83134429869e2f6742aa35
+      internalID: 189305390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f58224ac1e76649b76a4f7989e1ac6
+      internalID: -1551026347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd851a798d3a4fa41bcc18ac071817f1
+      internalID: -1052707039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e61b2fd063c843bc5be82ad36fbc7
+      internalID: 920520453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_38
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664963fe46c9844ea5f124b88c55d24
+      internalID: 1305882529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3b287ec24eba429359714be663202
+      internalID: 1129670841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff10ea6a423a269439bd1e1e374aa08c
+      internalID: -833084309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af1de30b82192c4fa2a583c03f68097
+      internalID: -2074695592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde31ac455d0544a82fcdbb159ef34b
+      internalID: 696381401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe085b502d42243be11c805b02153b
+      internalID: 1468070233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc637c10662e8a34690bb9dbb8a43a69
+      internalID: -1761466534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae032403e76455744818fc8804fdbaa4
+      internalID: -927755768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb80f92315683449ed7325a1bd0218
+      internalID: -780951166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba6b3b707b6bc48b1e6e87461b08a2
+      internalID: -193357603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144f4f1f0f60c143bffafc61115a096
+      internalID: 799673662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c702e753cedff4b8ecedcafa9ffd00
+      internalID: -2084485816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 341
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814341ea3141174ab1d85593e5b0ec4
+      internalID: 631842910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd38f7a5e5bfb49be64a63b66949e5
+      internalID: -1348231681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b82aa76038a6ee4b97567d31ea76102
+      internalID: 1055112756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc9e0a4251bb447bfc1e4c3d600210
+      internalID: 1104118390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8badd9ae427b34a8a62332264257ea
+      internalID: -586750646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87905f8ac0e21ff4a975e1ca0b44dacd
+      internalID: -2026704714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153c55182405bd459b2bacaf1184b16
+      internalID: 707928050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad031caad62cd846937b2a4d688628f
+      internalID: 1741111605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd3ab04fa71c443bbf39619c4e7497
+      internalID: 1110601736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_59
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108751ca58952564d98d35a21ead2a5c
+      internalID: -1106828016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d007edb2d4a244fa40d27042c91fe3
+      internalID: -1930506987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c08f893dd04b34fbbbe04bb9c045cc
+      internalID: -1742990179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bae4d3a0ec1e43889b9930e1124b0
+      internalID: 1184459136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af1655a9e6675744b34d53ebf1b38dc
+      internalID: -539738307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929aa95ac3cef64ebf984e2d5c7ef5e
+      internalID: 312194593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca096e6745dbcf7499a2f2ea63b62b93
+      internalID: 250285739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_66
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd50adf7239292b49b0429e904851545
+      internalID: -1129922300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 309
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8753363ec373cc4490450046fda69ac
+      internalID: 818883038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af6b84bfe2b504d8666a20505c8bd1
+      internalID: -2084547873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf008124f818c3479a7ce95aafb08b4
+      internalID: 2054871218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_70
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52db8c8cb5ea74e88f1948980aa969
+      internalID: -65183540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb1de38e24496429e5db8a7fe99192
+      internalID: -1566601193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac897327a058a8746a9e2ebbb43f2e08
+      internalID: -371100419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f732b605c71a23b4a868bf2f133845d1
+      internalID: 316216580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6e637901869e5439c1dfd7644b6092
+      internalID: 1131503756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f74492fa7968f4a8f5261181adfe67
+      internalID: -472318604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83666f01ea5abaf45845d6562cb0edad
+      internalID: 349012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab20a9a2403690c45974b90b8bdfa781
+      internalID: 1794083927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b7e05ee0102f4abd4fccec62e2ef5
+      internalID: 388724874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_79
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1752d8fc651db47919cd8c4381bfaa
+      internalID: -2062854839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778de133385fafc4aa30b727f834762b
+      internalID: -2061459115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_81
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b307f039fa954f8439766c6b991090a2
+      internalID: 1533350462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c4581d8537a74880cac17e6e51b2b
+      internalID: 331257575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_83
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cea0c5889313c41901043d80ca1809
+      internalID: 1874266356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_84
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 277
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4850907c534f3349a3f1e826500abee
+      internalID: -1656863506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035b25ca6a338443a9bb98a1347ce8a
+      internalID: 1218302351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576b7108d1d79d4c92ec0fbaf9d64fc
+      internalID: 2112386179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_87
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4dfb041229ed458c74215c1c5f4c8
+      internalID: 1661176384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cfbdd4d2d0fa48b3ada8f291fb278
+      internalID: 2121952732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_89
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943652cc169388d448a59c385dbfaf91
+      internalID: 1712242965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7907782dda84344bb85b4e524b6b71a
+      internalID: -729287551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_91
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4851ef5e38cbb14cb1ad3a9dbff367d
+      internalID: 1887745849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_92
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fefedc32060924289f443b961f7185
+      internalID: 2125271896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_93
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5426e728d0964ea1552c1a3f9a8f2
+      internalID: 1488478526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa263abc464cb8749ba486d18b80081a
+      internalID: -1080855486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217010a2fe6257458cca816a389a413
+      internalID: -1244276798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_96
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3547f333b8969d46b63dbe600ac526a
+      internalID: 84229883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1a4f23779c2a4da727f107c9e31f3
+      internalID: -720515869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_98
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8ba5a270d8554c91f3549c197e8a4
+      internalID: -706567020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c201c48bb93e4cb5d16fccf98e822
+      internalID: 1252987308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_100
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b83d3dc2e40a24eabefa5bf58f022f
+      internalID: 1526735258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_101
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f0e9f9eb218e428aa8d605912eecb
+      internalID: -566423710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76848431152ce4e81f87bb92cf1f5b
+      internalID: -1524878470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306222470f2ec0342959d1cba712a4ea
+      internalID: -56556577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a98e8fe8058054696fd66350f0797c
+      internalID: -639330010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72a2344a6c38541987fb02b4e67c67
+      internalID: -342320391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369840315e596c4f9bd07bceca44cff
+      internalID: 298731697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798080e3a984e5b44bd0a7190110d48e
+      internalID: 294849957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_108
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044d7d6283249e41ae4c7106be766ef
+      internalID: -208460578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981749030eac63448594b127b3b4cd3
+      internalID: -428842510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_110
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6bba22592e8c42addb10b9d9e6a25
+      internalID: 918302446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1f91a382c3aa4da7d4f792eeaf516
+      internalID: 2099577307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ee40db16f3ca43b2fd2387d1c569c
+      internalID: 1253929631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1bdc394649c2a48bdffbfe52ae864c
+      internalID: -388181659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_114
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac70a8ef78a27e43ba7d94176e2e329
+      internalID: 1442276514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_115
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269502612d295d418c8cb9e0ffb4e0e
+      internalID: 1760078622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_116
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b124cc4bf61694f9dee9183ee8a4b9
+      internalID: 1643364508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_117
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795ba0e41546d645a7c224768edae44
+      internalID: -267960959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_118
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 213
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7b574c724d484da87f10deadcfeff
+      internalID: -454385878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_119
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f48b26f341e8d48b1b4c260eff9bd0
+      internalID: 1228379058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af374713658e1dd469b04c6b58464b3d
+      internalID: -1893267553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032677ba1782904f9ac51fb4fd43f93
+      internalID: -1638080560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192372aadbab2a8498b46ab3a80fede5
+      internalID: 317601119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_123
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23348958b9a3e204e875ecd5f8e2bd4f
+      internalID: 457739448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_124
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637a4614cd8f9c47aa053a46c2ca9a2
+      internalID: 1181830442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_125
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b234ed66119c1940a0a15e639a84e01
+      internalID: -826533096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_126
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8669ec319af942b6a973fbe3f7e79
+      internalID: 850417866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_127
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cb12fe0b23f34490d3ac6d7810680
+      internalID: -795150518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_128
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22552838cdae5d94cacde0ea5f3f7314
+      internalID: 703050095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_129
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14202c87b35300c448500e0d0a43bab6
+      internalID: 134482962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_130
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e380fcfefe3dc34eb7f5e1dd2efd3cf
+      internalID: 778639088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_131
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9eab5eb8db34c41bd4706ad1373d02
+      internalID: 1730541004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac6cdfe10d597d4fb01c01880ba0ef6
+      internalID: -1912181858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_133
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd5010da04b1f42912acb743eb302e
+      internalID: 379394103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_134
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf8052cebbdb64eb02609a761c6c26
+      internalID: 167333045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_135
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 181
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bb7ad1aba7b754dae2f772f341c0b8
+      internalID: 1424948018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44f9095fa99bc4495bed55b8a5cac2
+      internalID: 194598425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89e031c8381a444b9bf419ca0fb219
+      internalID: 1558495202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_138
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71128a470721d4bade2d6ad1632302
+      internalID: 1118536937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_139
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d5744ab3460146ad8087a39afa0af
+      internalID: 1510674542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_140
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a5263e637a2a44b63b7b0e9454b6b
+      internalID: -1798378974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_141
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e971f713576042b4d02591ef0f18f
+      internalID: -2125901409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9554dcbaee12847ae35e08b60952e6
+      internalID: -906478993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_143
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1daedb4b2911240a77152efc2862fa
+      internalID: -531702488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_144
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53a8d0f5ecf4d448f8caf5e563c4d3
+      internalID: 353947413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_145
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75909c2a69a70544aa31344e003b1777
+      internalID: 645093463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2a782e8a039c4ab0a8eb1b7077a3e
+      internalID: 381195508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_147
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0b34429710d947be1eb1085f14768
+      internalID: -1441987399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80b749ae947f945bf151803e5b4cc0
+      internalID: 118675052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_149
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b2bbd28438c5499671921e7307dc6
+      internalID: -1796057090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_150
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68075320a8245f34989040dd191ec5b3
+      internalID: -938510648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_151
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d2e7fc35cf054980ca3665109d7ab
+      internalID: 299648361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_152
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 149
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7134d029f42c54589124037588c64c
+      internalID: -1386175940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b733a1580280e4796d1b98a2b193ea
+      internalID: 668605645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4397e83ba31a84baccc9b9353e961b
+      internalID: -142752065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_155
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c68460b3d4ae4f9f17eec4a886a69
+      internalID: -1439659607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_156
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4395ecdc1c79ee4da7c65c29f87dd36
+      internalID: 1134213104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_157
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9347aa89ca47694d99864ddb4d95532
+      internalID: -291829231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdddeb7d1c08284097068216fdc88d5
+      internalID: -1719743350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_159
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1995685e947b4499e1c2bbf3b01323
+      internalID: 1263454575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_160
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c5e49556e5fd441a4b879dd66fa324
+      internalID: 2091304843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_161
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de162761ce16dd347b96f2f00884f950
+      internalID: 2093221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_162
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e32373096f6d2d4687600676257abe4
+      internalID: 1118362335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_163
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29a3283cb214548aeca6bcac7d326f
+      internalID: -777764996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_164
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e712f4df7551c4a86bb8ef1740d359
+      internalID: 692256855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_165
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65b6f28e2f96f49a40efccee8c334d
+      internalID: -1004299463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_166
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51761001eeff4ba43a21710707721a73
+      internalID: -1448060576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_167
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da38af2293d2546ba120b25983511e
+      internalID: 1090429248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_168
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bb53f729989e4587c7af74f8e7454
+      internalID: 226210253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_169
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 117
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973d1e9be8fd63408e7023cbb9eb376
+      internalID: -224645731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_170
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86322dfda9130c4aab477b7803e4406
+      internalID: 1392908131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afefc9028e4014897be781940098a7
+      internalID: -987593904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_172
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd412859526b3c43b575a7a7496e8a6
+      internalID: -420075414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_173
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb2f24d59f9aa74b9db8d5583f89a7c
+      internalID: -999403739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_174
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1e36a3c575e449ad5a7333ffca338
+      internalID: 127042624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_175
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11587d5c5f70434380b6e9b6ea6b541
+      internalID: 1724592945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_176
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75781ae3fb6504e8c2248806ed955a
+      internalID: 1977715922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_177
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e56b5c19a97b48a1fc82ac55a35aa
+      internalID: 1255192634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_178
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181fedbfe3eb2404893c6ffb73139201
+      internalID: -1530316812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_179
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b096699232923c4a9d76ff3f98aabad
+      internalID: -953409246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_180
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b1892fe719b048978810458c85e6f
+      internalID: 1756573484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_181
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73448c8f5417a474cbe7c2bbbfacf4cf
+      internalID: 1428311161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0283deb2e7eb4382b808bfcb59870
+      internalID: 1238664774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_183
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69750bdf730d2194691d03ef2c10cbf4
+      internalID: -1377626395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_184
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06750066366d4bc4db94906c1e0e99cc
+      internalID: -258809037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_185
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24dabb6ae6e91247919ec68eeeed099
+      internalID: 883332208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_186
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 85
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91524e1df8985344f998b0f093818aa9
+      internalID: 1131619584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_187
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1650275bcef5c824db832d314bdf15b2
+      internalID: -70548156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d68bdea57524cf4b8f63621f946bec2
+      internalID: -750758709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_189
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828fe630fee6d846b483fd3239bf319
+      internalID: 1188755818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_190
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c270401646bf41b0d79ce735825dc
+      internalID: -660595716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_191
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa64bf654137240478ccf3745c9214a6
+      internalID: -1522894048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_192
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ca9f8b26d68547a286d8c1647b3a6
+      internalID: 1681652817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_193
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888455b827c14af4e80cdefd205c51e7
+      internalID: -1458864210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_194
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b6cd947de82034293056d316ddbc87
+      internalID: 517287103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_195
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10c48c466f4af4db5a949c1ae032fb
+      internalID: 242943719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_196
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b9d6386d8b9046a2bdcfdbde5e8f4
+      internalID: 1900051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_197
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f616534df0215d468eeb6d83e1c396e
+      internalID: 2146369728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_198
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2bedf156901384aa0be00b99d7554a
+      internalID: 105069791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_199
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58844ae9be1b4e34198cff685e6a291b
+      internalID: -1588324366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_200
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef07daa40416146bf1f870a1ed4e3a
+      internalID: -1023447050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_201
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4a45df07031242866d684e4097449
+      internalID: 217020577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692773498b2b7c44d89692ca6472ed68
+      internalID: 453081025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_203
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 53
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a06b71cf13ea54e887186f17fb6c08
+      internalID: -986124744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_204
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4c4431faf6f74b81bd0c3a3c3495c
+      internalID: -122142272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2561b86c4dce4b9da787ee60be0ff
+      internalID: 1569148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_206
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5ff8da46aade42a9b30179508253c
+      internalID: -1078290809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_207
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad731fab6a830246b4963f0575fd76e
+      internalID: 1060943845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_208
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9f0ddf72b16244980420486ab66831
+      internalID: -1648692768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_209
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d298e4a6d7f36499e57d79ebb644bc
+      internalID: 6297668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_210
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf528013c4e8d0544afb6246196f21cb
+      internalID: -1513423547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_211
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad9cf1536a4303418c3a23e42c44f4c
+      internalID: -718180067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_212
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038b05a1ca64c648bd5a4465673b0f4
+      internalID: -150361742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_213
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59fde336914f14498956fdf511aab9
+      internalID: -693394836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_214
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347ad52cbf9c184c8f9a881a74d65c3
+      internalID: -150708971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_215
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8899aa1b52f4dc4468ac2916f2617317
+      internalID: 2044889356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_216
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eeb2cb248ed154ca8e82a8f414b02c
+      internalID: 1940585304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_217
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54853732952522145ac0fd36aa4f94a4
+      internalID: -437272813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_218
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c06fa64f3a4484d85b719d1367a297
+      internalID: -1880538969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_219
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b34a6cbe6fee643a60b2fd6af20152
+      internalID: 2086424527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Omori_220
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 21
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1b05c8be654e489013e612dad5d78
+      internalID: 1395523148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ff8d8c72ebd4ad4a8658c6b77a7805a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":29.0,"y":32.0},"gridSpriteOffset":{"x":3.0,"y":16.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC Computer - Omori - Omori_0: 2023405579327134088
+      PC Computer - Omori - Omori_1: -1965436004
+      PC Computer - Omori - Omori_10: -13269032
+      PC Computer - Omori - Omori_100: 1526735258
+      PC Computer - Omori - Omori_101: -566423710
+      PC Computer - Omori - Omori_102: -1524878470
+      PC Computer - Omori - Omori_103: -56556577
+      PC Computer - Omori - Omori_104: -639330010
+      PC Computer - Omori - Omori_105: -342320391
+      PC Computer - Omori - Omori_106: 298731697
+      PC Computer - Omori - Omori_107: 294849957
+      PC Computer - Omori - Omori_108: -208460578
+      PC Computer - Omori - Omori_109: -428842510
+      PC Computer - Omori - Omori_11: -1014004110
+      PC Computer - Omori - Omori_110: 918302446
+      PC Computer - Omori - Omori_111: 2099577307
+      PC Computer - Omori - Omori_112: 1253929631
+      PC Computer - Omori - Omori_113: -388181659
+      PC Computer - Omori - Omori_114: 1442276514
+      PC Computer - Omori - Omori_115: 1760078622
+      PC Computer - Omori - Omori_116: 1643364508
+      PC Computer - Omori - Omori_117: -267960959
+      PC Computer - Omori - Omori_118: -454385878
+      PC Computer - Omori - Omori_119: 1228379058
+      PC Computer - Omori - Omori_12: 1722678544
+      PC Computer - Omori - Omori_120: -1893267553
+      PC Computer - Omori - Omori_121: -1638080560
+      PC Computer - Omori - Omori_122: 317601119
+      PC Computer - Omori - Omori_123: 457739448
+      PC Computer - Omori - Omori_124: 1181830442
+      PC Computer - Omori - Omori_125: -826533096
+      PC Computer - Omori - Omori_126: 850417866
+      PC Computer - Omori - Omori_127: -795150518
+      PC Computer - Omori - Omori_128: 703050095
+      PC Computer - Omori - Omori_129: 134482962
+      PC Computer - Omori - Omori_13: -21603197
+      PC Computer - Omori - Omori_130: 778639088
+      PC Computer - Omori - Omori_131: 1730541004
+      PC Computer - Omori - Omori_132: -1912181858
+      PC Computer - Omori - Omori_133: 379394103
+      PC Computer - Omori - Omori_134: 167333045
+      PC Computer - Omori - Omori_135: 1424948018
+      PC Computer - Omori - Omori_136: 194598425
+      PC Computer - Omori - Omori_137: 1558495202
+      PC Computer - Omori - Omori_138: 1118536937
+      PC Computer - Omori - Omori_139: 1510674542
+      PC Computer - Omori - Omori_14: -1292360872
+      PC Computer - Omori - Omori_140: -1798378974
+      PC Computer - Omori - Omori_141: -2125901409
+      PC Computer - Omori - Omori_142: -906478993
+      PC Computer - Omori - Omori_143: -531702488
+      PC Computer - Omori - Omori_144: 353947413
+      PC Computer - Omori - Omori_145: 645093463
+      PC Computer - Omori - Omori_146: 381195508
+      PC Computer - Omori - Omori_147: -1441987399
+      PC Computer - Omori - Omori_148: 118675052
+      PC Computer - Omori - Omori_149: -1796057090
+      PC Computer - Omori - Omori_15: 861068358
+      PC Computer - Omori - Omori_150: -938510648
+      PC Computer - Omori - Omori_151: 299648361
+      PC Computer - Omori - Omori_152: -1386175940
+      PC Computer - Omori - Omori_153: 668605645
+      PC Computer - Omori - Omori_154: -142752065
+      PC Computer - Omori - Omori_155: -1439659607
+      PC Computer - Omori - Omori_156: 1134213104
+      PC Computer - Omori - Omori_157: -291829231
+      PC Computer - Omori - Omori_158: -1719743350
+      PC Computer - Omori - Omori_159: 1263454575
+      PC Computer - Omori - Omori_16: 1893474200
+      PC Computer - Omori - Omori_160: 2091304843
+      PC Computer - Omori - Omori_161: 2093221534
+      PC Computer - Omori - Omori_162: 1118362335
+      PC Computer - Omori - Omori_163: -777764996
+      PC Computer - Omori - Omori_164: 692256855
+      PC Computer - Omori - Omori_165: -1004299463
+      PC Computer - Omori - Omori_166: -1448060576
+      PC Computer - Omori - Omori_167: 1090429248
+      PC Computer - Omori - Omori_168: 226210253
+      PC Computer - Omori - Omori_169: -224645731
+      PC Computer - Omori - Omori_17: -360874513
+      PC Computer - Omori - Omori_170: 1392908131
+      PC Computer - Omori - Omori_171: -987593904
+      PC Computer - Omori - Omori_172: -420075414
+      PC Computer - Omori - Omori_173: -999403739
+      PC Computer - Omori - Omori_174: 127042624
+      PC Computer - Omori - Omori_175: 1724592945
+      PC Computer - Omori - Omori_176: 1977715922
+      PC Computer - Omori - Omori_177: 1255192634
+      PC Computer - Omori - Omori_178: -1530316812
+      PC Computer - Omori - Omori_179: -953409246
+      PC Computer - Omori - Omori_18: 1261954036
+      PC Computer - Omori - Omori_180: 1756573484
+      PC Computer - Omori - Omori_181: 1428311161
+      PC Computer - Omori - Omori_182: 1238664774
+      PC Computer - Omori - Omori_183: -1377626395
+      PC Computer - Omori - Omori_184: -258809037
+      PC Computer - Omori - Omori_185: 883332208
+      PC Computer - Omori - Omori_186: 1131619584
+      PC Computer - Omori - Omori_187: -70548156
+      PC Computer - Omori - Omori_188: -750758709
+      PC Computer - Omori - Omori_189: 1188755818
+      PC Computer - Omori - Omori_19: -1241368207
+      PC Computer - Omori - Omori_190: -660595716
+      PC Computer - Omori - Omori_191: -1522894048
+      PC Computer - Omori - Omori_192: 1681652817
+      PC Computer - Omori - Omori_193: -1458864210
+      PC Computer - Omori - Omori_194: 517287103
+      PC Computer - Omori - Omori_195: 242943719
+      PC Computer - Omori - Omori_196: 1900051407
+      PC Computer - Omori - Omori_197: 2146369728
+      PC Computer - Omori - Omori_198: 105069791
+      PC Computer - Omori - Omori_199: -1588324366
+      PC Computer - Omori - Omori_2: 1643574808
+      PC Computer - Omori - Omori_20: 294941203
+      PC Computer - Omori - Omori_200: -1023447050
+      PC Computer - Omori - Omori_201: 217020577
+      PC Computer - Omori - Omori_202: 453081025
+      PC Computer - Omori - Omori_203: -986124744
+      PC Computer - Omori - Omori_204: -122142272
+      PC Computer - Omori - Omori_205: 1569148603
+      PC Computer - Omori - Omori_206: -1078290809
+      PC Computer - Omori - Omori_207: 1060943845
+      PC Computer - Omori - Omori_208: -1648692768
+      PC Computer - Omori - Omori_209: 6297668
+      PC Computer - Omori - Omori_21: -189831393
+      PC Computer - Omori - Omori_210: -1513423547
+      PC Computer - Omori - Omori_211: -718180067
+      PC Computer - Omori - Omori_212: -150361742
+      PC Computer - Omori - Omori_213: -693394836
+      PC Computer - Omori - Omori_214: -150708971
+      PC Computer - Omori - Omori_215: 2044889356
+      PC Computer - Omori - Omori_216: 1940585304
+      PC Computer - Omori - Omori_217: -437272813
+      PC Computer - Omori - Omori_218: -1880538969
+      PC Computer - Omori - Omori_219: 2086424527
+      PC Computer - Omori - Omori_22: -2128632097
+      PC Computer - Omori - Omori_220: 1395523148
+      PC Computer - Omori - Omori_23: 1249622795
+      PC Computer - Omori - Omori_24: -122381068
+      PC Computer - Omori - Omori_25: 421825279
+      PC Computer - Omori - Omori_26: 1116917019
+      PC Computer - Omori - Omori_27: -1513173397
+      PC Computer - Omori - Omori_28: -1262844549
+      PC Computer - Omori - Omori_29: -2145575058
+      PC Computer - Omori - Omori_3: 1860096452
+      PC Computer - Omori - Omori_30: -74679106
+      PC Computer - Omori - Omori_31: -1429219364
+      PC Computer - Omori - Omori_32: -993897681
+      PC Computer - Omori - Omori_33: -1622607464
+      PC Computer - Omori - Omori_34: 189305390
+      PC Computer - Omori - Omori_35: -1551026347
+      PC Computer - Omori - Omori_36: -1052707039
+      PC Computer - Omori - Omori_37: 920520453
+      PC Computer - Omori - Omori_38: 1305882529
+      PC Computer - Omori - Omori_39: 1129670841
+      PC Computer - Omori - Omori_4: 1654449130
+      PC Computer - Omori - Omori_40: -833084309
+      PC Computer - Omori - Omori_41: -2074695592
+      PC Computer - Omori - Omori_42: 696381401
+      PC Computer - Omori - Omori_43: 1468070233
+      PC Computer - Omori - Omori_44: -1761466534
+      PC Computer - Omori - Omori_45: -927755768
+      PC Computer - Omori - Omori_46: -780951166
+      PC Computer - Omori - Omori_47: -193357603
+      PC Computer - Omori - Omori_48: 799673662
+      PC Computer - Omori - Omori_49: -2084485816
+      PC Computer - Omori - Omori_5: 1634187875
+      PC Computer - Omori - Omori_50: 631842910
+      PC Computer - Omori - Omori_51: -1348231681
+      PC Computer - Omori - Omori_52: 1055112756
+      PC Computer - Omori - Omori_53: 1104118390
+      PC Computer - Omori - Omori_54: -586750646
+      PC Computer - Omori - Omori_55: -2026704714
+      PC Computer - Omori - Omori_56: 707928050
+      PC Computer - Omori - Omori_57: 1741111605
+      PC Computer - Omori - Omori_58: 1110601736
+      PC Computer - Omori - Omori_59: -1106828016
+      PC Computer - Omori - Omori_6: 378777921
+      PC Computer - Omori - Omori_60: -1930506987
+      PC Computer - Omori - Omori_61: -1742990179
+      PC Computer - Omori - Omori_62: 1184459136
+      PC Computer - Omori - Omori_63: -539738307
+      PC Computer - Omori - Omori_64: 312194593
+      PC Computer - Omori - Omori_65: 250285739
+      PC Computer - Omori - Omori_66: -1129922300
+      PC Computer - Omori - Omori_67: 818883038
+      PC Computer - Omori - Omori_68: -2084547873
+      PC Computer - Omori - Omori_69: 2054871218
+      PC Computer - Omori - Omori_7: 1082045983
+      PC Computer - Omori - Omori_70: -65183540
+      PC Computer - Omori - Omori_71: -1566601193
+      PC Computer - Omori - Omori_72: -371100419
+      PC Computer - Omori - Omori_73: 316216580
+      PC Computer - Omori - Omori_74: 1131503756
+      PC Computer - Omori - Omori_75: -472318604
+      PC Computer - Omori - Omori_76: 349012605
+      PC Computer - Omori - Omori_77: 1794083927
+      PC Computer - Omori - Omori_78: 388724874
+      PC Computer - Omori - Omori_79: -2062854839
+      PC Computer - Omori - Omori_8: 2130280209
+      PC Computer - Omori - Omori_80: -2061459115
+      PC Computer - Omori - Omori_81: 1533350462
+      PC Computer - Omori - Omori_82: 331257575
+      PC Computer - Omori - Omori_83: 1874266356
+      PC Computer - Omori - Omori_84: -1656863506
+      PC Computer - Omori - Omori_85: 1218302351
+      PC Computer - Omori - Omori_86: 2112386179
+      PC Computer - Omori - Omori_87: 1661176384
+      PC Computer - Omori - Omori_88: 2121952732
+      PC Computer - Omori - Omori_89: 1712242965
+      PC Computer - Omori - Omori_9: -801939955
+      PC Computer - Omori - Omori_90: -729287551
+      PC Computer - Omori - Omori_91: 1887745849
+      PC Computer - Omori - Omori_92: 2125271896
+      PC Computer - Omori - Omori_93: 1488478526
+      PC Computer - Omori - Omori_94: -1080855486
+      PC Computer - Omori - Omori_95: -1244276798
+      PC Computer - Omori - Omori_96: 84229883
+      PC Computer - Omori - Omori_97: -720515869
+      PC Computer - Omori - Omori_98: -706567020
+      PC Computer - Omori - Omori_99: 1252987308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
