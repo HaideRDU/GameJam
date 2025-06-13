@@ -927,12 +927,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: a3400e21-ce45-4e93-be9a-6c7f03115239
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: gamejanmefwerwer
   organizationId: rochahaider2
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

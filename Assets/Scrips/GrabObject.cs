@@ -8,12 +8,12 @@ public class GrabOnject : MonoBehaviour
     public GameObject player;
     public Collider2D colider;
 
-
+    private PlayerController playerController;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        playerController = player.GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
@@ -25,6 +25,7 @@ public class GrabOnject : MonoBehaviour
             {
                 if (!isBeingCarried)
                 {
+                    playerController.dragActive = true;
                     transform.SetParent(player.transform);
                     isBeingCarried = true; 
                     colider.enabled = false;
@@ -32,6 +33,7 @@ public class GrabOnject : MonoBehaviour
             }
             if (Input.GetKeyUp(KeyCode.E)&& isBeingCarried)
             {
+                playerController.dragActive = true;
                 transform.SetParent(null);
                 isBeingCarried = false;
                 colider.enabled = true;
