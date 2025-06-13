@@ -18,8 +18,11 @@ public class EnemyMov : MonoBehaviour
     private Vector2 patrolTarget;
     private bool isChasing = false;
 
+    private GameManager gamemanager;
+
     void Start()
     {
+        
         PickNewPatrolPoint();
     }
 
